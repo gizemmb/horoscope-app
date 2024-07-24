@@ -17,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/kullanici-adi/horoscope_app.git
+    git clone https://github.com/gizemmb/horoscope_app.git
     ```
 
 2. **Navigate to the Project Directory:**
